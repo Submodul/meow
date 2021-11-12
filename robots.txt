@@ -1,0 +1,3 @@
+Sitemap: https://meow.2stable.com/sitemap.xml
+User-agent: *
+Allow: /
